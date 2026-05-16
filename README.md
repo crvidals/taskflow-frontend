@@ -124,11 +124,11 @@ Frontend serves at: `http://localhost:80` (Nginx)
 
 ### Dashboard
 
-![Dashboard](screenshoot_2.png)
+![Dashboard](public/screenshoot_2.png)
 
 ### Task List
 
-![Task List](screenshoot_1.png)
+![Task List](public/screenshoot_1.png)
 
 ## License
 
